@@ -2,7 +2,7 @@
 
 # Hi, I'm Manohar 👋
 
-**GenAI & Python Developer · MS in AI/ML @ IIIT Lucknow**
+**GenAI & Python Developer · Masters in AI/ML @ IIIT Lucknow**
 
 *Building intelligent systems with LLMs, RAG pipelines, and scalable Python backends.*
 
